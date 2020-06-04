@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DataBasic.io Blog - ECPv5.1.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DataBasic.io Blog
+X-ORIGINAL-URL:https://blog.databasic.io
+X-WR-CALDESC:Events for DataBasic.io Blog
+END:VCALENDAR
